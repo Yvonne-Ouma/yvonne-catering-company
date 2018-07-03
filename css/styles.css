@@ -1,3 +1,25 @@
 h1 {
   font-style: italic;
 }
+ul {
+  text-align: left;
+}
+nav>ul{
+  text-align:right;
+}
+nav>ul>li {
+  display:inline-block;
+  background-color:grey;
+}
+nav>ul>li>a {
+  padding: 18px;
+  margin-right: 0;
+  text-transform: uppercase;
+  text-decoration: none;
+  display: block;
+  color: rgba(255, 255, 255, 0.733);
+}
+nav>ul>li>a:hover {
+  background-color: rgba(0,255,0,1);
+  color: black;
+}

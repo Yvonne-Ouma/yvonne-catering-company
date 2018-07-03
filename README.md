@@ -3,7 +3,7 @@ Affordable Excellent Catering Company!
 ## Author
 Yvonne Ouma
 ## Description
-This is an affordable catering company just as the name suggest. It was meant to help serve people during events like Burials,Weddings,Business meeting etc.
+My website by the name Affordable Excellent Catering Company entails dishes offered by the company, names of the dishes,price,ingredients,allergens and pictures.
 ## Prequisites
 web browser,
 git
